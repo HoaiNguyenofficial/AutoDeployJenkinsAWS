@@ -1,0 +1,5 @@
+#ENV
+*.tfvars
+jenkins-cli.jar
+jenkins-cli.jar.1
+jenkins-cli.jar.2
